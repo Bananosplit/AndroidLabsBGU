@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppProgramMenuLab8</string>
+    <string name="SizeText">Размер текста</string>
+    <string name="ColorText">Цвет текста</string>
+</resources>

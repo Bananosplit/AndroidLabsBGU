@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="name">ПОПАДИ В ЦЕЛЬ</string>
+    <string name="pravilo"></string>
+    <string name="pravilo2"></string>
+    <string name="pravilo3"></string>
+    <string name="start">НАЧАТЬ ИГРУ</string>
+    <string name="score">ВАШИ БАЛЛЫ</string>
+</resources>

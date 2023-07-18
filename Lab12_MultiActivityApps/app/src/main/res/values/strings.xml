@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Многооконное приложение</string>
+    <string name="btn">Выбор фона</string>
+    <string name="color">Цвет</string>
+    <string name="default1">Вернутся к старому фону</string>
+    <string name="img">Картинка</string>
+    <string name="msg">Выберите фон</string>
+    <string name="txt1">Стандартный фон</string>
+    <string name="txt2">Градиентный фон</string>
+    <string name="txt3">Фон с картинкой</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppColorRebuild</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="red">red</string>
+    <string name="green">green</string>
+    <string name="blue">blue</string>
+    <string name="hint">Введите значение от 0 до 255</string>
+    <string name="Submit">Submit</string>
+    <string name="ChangeColor">Color was changed</string>
+</resources>
